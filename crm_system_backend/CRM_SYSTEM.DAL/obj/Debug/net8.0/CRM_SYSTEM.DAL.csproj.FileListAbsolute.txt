@@ -1,0 +1,13 @@
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\bin\Debug\net8.0\CRM_SYSTEM.DAL.deps.json
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\bin\Debug\net8.0\CRM_SYSTEM.DAL.dll
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\bin\Debug\net8.0\CRM_SYSTEM.DAL.pdb
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.csproj.AssemblyReference.cache
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.AssemblyInfoInputs.cache
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.AssemblyInfo.cs
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.csproj.CoreCompileInputs.cache
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.sourcelink.json
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.dll
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\refint\CRM_SYSTEM.DAL.dll
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\CRM_SYSTEM.DAL.pdb
+D:\crm_system\crm_system_backend\CRM_SYSTEM.DAL\obj\Debug\net8.0\ref\CRM_SYSTEM.DAL.dll

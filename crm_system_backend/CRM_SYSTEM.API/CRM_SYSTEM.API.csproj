@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\uploads\**" />
+    <Compile Remove="uploads\**" />
+    <Content Remove="Controllers\uploads\**" />
+    <Content Remove="uploads\**" />
+    <EmbeddedResource Remove="Controllers\uploads\**" />
+    <EmbeddedResource Remove="uploads\**" />
+    <None Remove="Controllers\uploads\**" />
+    <None Remove="uploads\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRM_SYSTEM.BLL\CRM_SYSTEM.BLL.csproj" />
+    <ProjectReference Include="..\CRM_SYSTEM.DAL\CRM_SYSTEM.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
